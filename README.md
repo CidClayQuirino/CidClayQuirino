@@ -7,6 +7,13 @@ Olá! Sou Cid Clay Aparecido Quirino, um profissional dedicado com ampla experi�
 
 ## Teacher na Pontifícia Universidade Católica de Minas Gerais & Product Support Coordenator | Mining Fleet
 
+You might recognize me as GitHub's support on following Languages:
+| Rank | Languages |
+|-----:|-----------|
+|     1| PowerBi|
+|     2| Python    |
+|     3| SQL       |
+
 ## Objetivos
 
 Gerenciamento: Desenvolver e liderar projetos que maximizem os resultados empresariais por meio da gestão de ativos, processos e pessoas.
