@@ -50,7 +50,9 @@ Inspetor de Qualidade (Jan - Ago 1996)
 Estagiário de Manutenção Mecânica (Jul 1993 - Dez 1994)
 
 ## Educação
+Game Designer e Desenvolvedor - Escola Britânica de Artes Criativas & Tecnologia (EBAC) - 2024-2025
 MBA em Data Science e Analytics - Universidade de São Paulo (USP) - 2021-2023
+Mestre em Engenharia Mecânica - Pontifícia Universidade Católica de Minas Gerais (PUC-Minas) - 2013-2016
 Engenharia Mecânica - Pontifícia Universidade Católica de Minas Gerais (PUC-Minas) - 2007-2012
 Engenharia de Manutenção - Instituto de Educação Continuada (IEC PUC Minas) - Mar 2007
 Administração de Empresas - Fundação Getúlio Vargas (FGV) - Dez 2004
