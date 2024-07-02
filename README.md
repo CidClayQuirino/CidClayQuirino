@@ -82,6 +82,8 @@ Análise Estatística de Processos - NCQ - Mar 2004
 Vale: Suporte técnico para construção e desenvolvimento de sistemas de controle de manutenção.
 Escola Estadual Dom Silvério: Ensino de Filosofia e História para alunos do 1º Grau.
 
+Game Designer e Desenvolvedor Unity: Desenvolvimento de Aulas interativas, utilizando Gameficação de atividades, para melhoria do aprendizados dos alunos nas disciplinas: Planejamento e Programação da Manuteção de ativos, LCC e Confiabilidade na Gestão de Ativos e outras formas de desenvolvimento de equipe, com uso de Gameficação.
+
 ## Contato
 Email: cidclay@gmail.com
 LinkedIn: linkedin.com/in/cidclay
