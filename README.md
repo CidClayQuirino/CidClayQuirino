@@ -33,15 +33,17 @@ Treinamento: Implementação de treinamentos em gerenciamento de contratos, cont
 ## Sotreq S/A
 Coordenador de Suporte ao Produto | Frota de Mineração (Desde Agosto 2022)
 Coordenador de Engenharia e Performance | Frota de Mineração (Fev 2020 - Ago 2022)
-Consultor Técnico (Nov 2006 - Jan 2010)
-Analista de Desenvolvimento de Contratos (Jan 2001 - Out 2006)
-Técnico Mecânico (Jan 1997 - Out 2001)
 
 ## Atlas Copco / Epiroc
-Supervisor de Suporte ao Produto (Garantia e Treinamento) (Mar 2012 - Mar 2020)
+Coordenador de Suporte ao Produto (Garantia e Treinamento) (Mar 2012 - Mar 2020)
 
 ## Iveco Latin America
 Coordenador de Qualidade (Comportamento do Produto) (Fev 2010 - Mar 2012)
+
+## Sotreq S/A
+Consultor Técnico (Nov 2006 - Jan 2010)
+Analista de Desenvolvimento de Contratos (Jan 2001 - Out 2006)
+Técnico Mecânico (Jan 1997 - Out 2001)
 
 ## VDL Cycles and Motors
 Inspetor de Qualidade (Jan - Ago 1996)
