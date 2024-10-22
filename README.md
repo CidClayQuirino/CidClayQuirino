@@ -1,7 +1,6 @@
 
 # Cid Clay Aparecido Quirino
 
-
 ## Sobre Mim
 Olá! Sou Cid Clay Aparecido Quirino, um profissional dedicado com ampla experiência em gerenciamento de ativos, processos de manutenção, e gerenciamento de equipes. Meu foco principal é otimizar a condição de equipamentos de mineração utilizando manutenção preditiva e IoT com aprendizado de máquina.
 
