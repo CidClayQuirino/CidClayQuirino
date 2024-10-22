@@ -28,6 +28,9 @@ Desenvolvimento de Sistemas: Análise e desenvolvimento de sistemas específicos
 Treinamento: Implementação de treinamentos em gerenciamento de contratos, controle estatístico de processos, confiabilidade e gestão de custos.
 
 ## Experiência Profissional
+## Teacher na Pontifícia Universidade Católica de Minas Gerais
+Professor no Curso de Pós Graduação, em Engenharia de Manutenção EletroMecânica no Instituto de Educação Continuada (Campos Coração Eucaristico).
+Disciplinas: Planejamento e Gestão da Manuteção e Projetos de Manuteção.
 
 ## Sotreq S/A
 Coordenador de Suporte ao Produto | Frota de Mineração (Desde Agosto 2022)
