@@ -33,8 +33,11 @@ Treinamento: Implementação de treinamentos em gerenciamento de contratos, cont
 Professor no Curso de Pós Graduação, em Engenharia de Manutenção EletroMecânica no Instituto de Educação Continuada (Campos Coração Eucaristico).
 Disciplinas: Planejamento e Gestão da Manuteção e Projetos de Manuteção.
 
+## KOMATSU BRASIL INTERNATIONAL
+Gerente de Serviço (Julho 2025 - )
+
 ## Sotreq S/A
-Coordenador de Suporte ao Produto | Frota de Mineração (Desde Agosto 2022)
+Coordenador de Suporte ao Produto | Frota de Mineração (Agosto 2022-Julho 2025)
 Coordenador de Engenharia e Performance | Frota de Mineração (Fev 2020 - Ago 2022)
 
 ## Atlas Copco / Epiroc
