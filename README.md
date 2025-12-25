@@ -1,5 +1,5 @@
 
-# ""Cid Clay" Aparecido Quirino"
+# "Cid Clay Aparecido Quirino"
 
 ## Sobre Mim
 Olá! Sou Cid Clay Aparecido Quirino, ampla experiência em gerenciamento de ativos, processos de manutenção, e gerenciamento de equipes.
